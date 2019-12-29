@@ -3,8 +3,11 @@ require 'pry'
 class String
 
   def sentence?
-    
+     if sentence.self = sentence
+       puts "HI!".end_with?("!") => true
+     else false 
   end
+end
 
   def question?
 
